@@ -4,9 +4,8 @@
  preview:
   filename: bridge
   original: bridge.jpg
-  sizes:
-  - bridge.jpg
-  thumbnail: bridge.jpg
+  sizes: []
+  thumbnail:  bridge.jpg
 -
  title: A More Complicated Example Gallery
  directory: ghent-light-festival
