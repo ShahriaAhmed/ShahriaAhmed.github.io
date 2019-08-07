@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Contact
-permalink:
+permalink: /contact/
 ---
 
-To contact me, my email is Ahmed.shahria.2017@gmail.com
+My email is Ahmed.shahria.2017@gmail.com.
+Contact me if you wanna buy prints or have any requests.
