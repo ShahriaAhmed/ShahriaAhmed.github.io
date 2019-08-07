@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Contact
-permalink: 
+permalink:
 ---
 
 To contact me, my email is Ahmed.shahria.2017@gmail.com
