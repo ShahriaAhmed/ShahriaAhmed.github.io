@@ -6,4 +6,4 @@ permalink: /current projects/
 
 This is what i'm currently working on. It's a basic app modeled after flappy bird.
 
-<embed src="corgi_jump.mp4" autostart="false" height="30" width="144" />
+<iframe width="480" height="360" src="shahriaahmed.github.io/assets/photography/gifs/corgi_jump.mov" frameborder="0"> </iframe>
