@@ -6,4 +6,4 @@ permalink: /current projects/
 
 This is what i'm currently working on. It's a basic app modeled after flappy bird.
 
-![alt text](https://shahriaahmed.github.io/assets/photography/gifs/ezgif.com-video-to-gif.gif)
+<embed src="corgi jump.mov" autostart="false" height="30" width="144" />
