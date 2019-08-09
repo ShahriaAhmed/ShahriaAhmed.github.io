@@ -1,0 +1,18 @@
+picture_path: wallpapers
+preview:
+  filename: skyline
+  original: 34505748251_4620666c19_o.jpg
+  sizes:
+  - 34505748251_4620666c19_o.jpg
+  thumbnail: 34505748251_4620666c19_o.jpg
+pictures:
+- filename: IMG_3457
+  original: IMG_3457.jpg
+  sizes:
+  - IMG_3457.jpg
+  thumbnail: IMG_3457.jpg
+- filename: IMG_2993
+  original: IMG_2993.jpg
+  sizes:
+  - IMG_2993.jpg
+  thumbnail: IMG_2993.jpg
