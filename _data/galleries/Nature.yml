@@ -1,13 +1,4 @@
 picture_path: Nature
-preview:
-  filename: bridge
-  original: bridge.jpg
-  sizes:
-  - bridge.jpg
-  thumbnail: bridge.jpg
-  title: test
-  caption: test
-
 pictures:
 
 - filename: 5Y5A4583
@@ -54,3 +45,19 @@ pictures:
   sizes:
   - 5Y5A4648.jpg
   thumbnail: 5Y5A4648.jpg
+
+- filename: 34123373713_320a520594_o
+  original: 34123373713_320a520594_o.jpg
+  sizes:
+  - 34123373713_320a520594_o.jpg
+  thumbnail: 34123373713_320a520594_o.jpg
+- filename: IMG_3646
+  original: IMG_3646.jpg
+  sizes:
+  - IMG_3646.jpg
+  thumbnail: IMG_3646.jpg
+- filename: 34090756584_fca1edb9c3_o
+  original: 34090756584_fca1edb9c3_o.jpg
+  sizes:
+  - 34090756584_fca1edb9c3_o.jpg
+  thumbnail: 34090756584_fca1edb9c3_o.jpg
