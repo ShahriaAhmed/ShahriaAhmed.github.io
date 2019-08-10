@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Current Projects
-permalink: /current projects/
+title: Projects
+permalink: /projects/
 ---
 
 This is what i'm currently working on. It's a basic app modeled after flappy bird.

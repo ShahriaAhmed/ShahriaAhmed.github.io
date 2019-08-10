@@ -36,3 +36,45 @@ pictures:
   sizes:
   - IMG_2708.jpg
   thumbnail: IMG_2708.jpg
+
+- filename: IMG_5789
+  original: IMG_5789.jpg
+  sizes:
+  - IMG_5789.jpg
+  thumbnail: IMG_5789.jpg
+  
+- filename: 33996435706_a155d64740_o
+  original: 33996435706_a155d64740_o.jpg
+  sizes:
+  - 33996435706_a155d64740_o.jpg
+  thumbnail: 33996435706_a155d64740_o.jpg
+
+- filename: 34784779271_9b3ce40166_o
+  original: 34784779271_9b3ce40166_o.jpg
+  sizes:
+  - 34784779271_9b3ce40166_o.jpg
+  thumbnail: 34784779271_9b3ce40166_o.jpg
+
+- filename: IMG_2516
+  original: IMG_2516.jpg
+  sizes:
+  - IMG_2516.jpg
+  thumbnail: 35692706241_fa40e4e472_o.jpg
+
+- filename: 35692706241_fa40e4e472_o
+  original: 35692706241_fa40e4e472_o.jpg
+  sizes:
+  - 35692706241_fa40e4e472_o.jpg
+  thumbnail: 35692706241_fa40e4e472_o.jpg
+
+- filename: 34207762675_230d9be9ca_o
+  original: 34207762675_230d9be9ca_o.jpg
+  sizes:
+  - 34207762675_230d9be9ca_o.jpg
+  thumbnail: 34207762675_230d9be9ca_o.jpg
+
+- filename: 36331923770_17519ac092_o
+  original: 36331923770_17519ac092_o.jpg
+  sizes:
+  - 36331923770_17519ac092_o.jpg
+  thumbnail: 36331923770_17519ac092_o.jpg
