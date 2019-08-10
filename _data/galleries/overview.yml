@@ -1,20 +1,44 @@
 -
- title: Gallery
- directory: wallpapers
+
+ title: Nature
+ directory: Nature
+ picture_path: photography/wallpapers
  preview:
-  filename: bridge
-  original: bridge.jpg
-  sizes: []
-  thumbnail:  bridge.jpg
+  filename: IMG_3294
+  original: IMG_3294.jpg
+  sizes:
+  - IMG_3294.jpg
+  thumbnail: IMG_3294.jpg
+
 -
  title: Cityscape
  directory: Cityscape
  picture_path: photography/wallpapers
  preview:
-  filename: Lichtfestival-0058
-  original: Lichtfestival-0058-6000x4000.jpg
+  filename: IMG_2708
+  original: IMG_2708.jpg
   sizes:
-  - Lichtfestival-0058-2121x1414.jpg
-  - Lichtfestival-0058-2999x1999.jpg
-  - Lichtfestival-0058-4242x2828.jpg
-  thumbnail: Lichtfestival-0058-thumbnail.jpg
+  - IMG_2708.jpg
+  thumbnail: IMG_2708.jpg
+
+-
+  title: Astro
+  directory: Astro
+  picture_path: photography/wallpapers
+  preview:
+   filename: 32962985092_9b4c49fca1_o
+   original: 32962985092_9b4c49fca1_o.jpg
+   sizes:
+   - 32962985092_9b4c49fca1_o.jpg
+   thumbnail: 32962985092_9b4c49fca1_o.jpg
+
+-
+  title: Other
+  directory: Other
+  picture_path: photography/wallpapers
+  preview:
+    filename: 5Y5A4583
+    original: 5Y5A4583.jpg
+    sizes:
+    - 5Y5A4583.jpg
+    thumbnail: 5Y5A4583.jpg

@@ -1,0 +1,81 @@
+picture_path: wallpapers
+preview:
+  filename: bridge
+  original: bridge.jpg
+  sizes:
+  - bridge.jpg
+  thumbnail: bridge.jpg
+  title: test
+  caption: test
+pictures:
+- filename: williamsburg
+  original: williamsburg.jpg
+  sizes:
+  - williamsburg.jpg
+  thumbnail: williamsburg.jpg
+  title: second test
+  caption: testing
+
+- filename: williamsburg
+  original: 35127331102_b91cfd9030_o.jpg
+  sizes:
+  - 35127331102_b91cfd9030_o.jpg
+  thumbnail: 35127331102_b91cfd9030_o.jpg
+  title: second test
+  caption: testing
+
+- filename: williamsburg
+  original: IMG_4355.jpg
+  sizes:
+  - IMG_4355.jpg
+  thumbnail: IMG_4355.jpg
+  title: second test
+  caption: testing
+
+- filename: williamsburg
+  original: boat.jpg
+  sizes:
+  - boat.jpg
+  thumbnail: boat.jpg
+  title: second test
+  caption: testing
+
+- filename: williamsburg
+  original: buffalo bunny.jpg
+  sizes:
+  - buffalo bunny.jpg
+  thumbnail: buffalo bunny.jpg
+  title: second test
+  caption: testing
+
+- filename: williamsburg
+  original: 33979682750_4067616e3e_o.jpg
+  sizes:
+  - 33979682750_4067616e3e_o.jpg
+  thumbnail: 33979682750_4067616e3e_o.jpg
+  title: second test
+  caption: testing
+
+- filename: williamsburg
+  original: 34167111226_7f1dd187e0_o.jpg
+  sizes:
+  - 34167111226_7f1dd187e0_o.jpg
+  thumbnail: 34167111226_7f1dd187e0_o.jpg
+  title: second test
+  caption: testing
+
+- filename: williamsburg
+  original: 34207762675_230d9be9ca_o.jpg
+  sizes:
+  - 34207762675_230d9be9ca_o.jpg
+  thumbnail: 34207762675_230d9be9ca_o.jpg
+  title: second test
+  caption: testing
+
+- filename: williamsburg
+  original: 35127331102_b91cfd9030_o.jpg
+  sizes:
+  - 35127331102_b91cfd9030_o.jpg
+  thumbnail: 35127331102_b91cfd9030_o.jpg
+  title: second test
+  caption: testing
