@@ -4,11 +4,11 @@
  directory: Nature
  picture_path: Nature
  preview:
-  filename: IMG_3294
-  original: IMG_3294.jpg
+  filename: 5Y5A4583
+  original: 5Y5A4583.jpg
   sizes:
-  - IMG_3294.jpg
-  thumbnail: IMG_3294.jpg
+  - 5Y5A4583.jpg
+  thumbnail: 5Y5A4583.jpg
 
 -
  title: Cityscape
@@ -37,8 +37,8 @@
   directory: Other
   picture_path: Other
   preview:
-    filename: 5Y5A4583
-    original: 5Y5A4583.jpg
+    filename: img_5001jpg_36331925920_o
+    original: img_5001jpg_36331925920_o.jpg
     sizes:
-    - 5Y5A4583.jpg
-    thumbnail: 5Y5A4583.jpg
+    - img_5001jpg_36331925920_o.jpg
+    thumbnail: img_5001jpg_36331925920_o.jpg

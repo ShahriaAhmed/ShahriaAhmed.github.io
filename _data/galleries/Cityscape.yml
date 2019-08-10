@@ -25,14 +25,14 @@ pictures:
   - IMG_3457.jpg
   thumbnail: IMG_3457.jpg
 
-- filename: IMG_2708
-  original: IMG_2708.jpg
-  sizes:
-  - IMG_2708.jpg
-  thumbnail: IMG_2708.jpg
-
 - filename: IMG_5652
   original: IMG_5652.jpg
   sizes:
   - IMG_5652.jpg
   thumbnail: IMG_5652.jpg
+
+- filename: IMG_2708
+  original: IMG_2708.jpg
+  sizes:
+  - IMG_2708.jpg
+  thumbnail: IMG_2708.jpg

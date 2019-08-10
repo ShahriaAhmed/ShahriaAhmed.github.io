@@ -1,0 +1,60 @@
+picture_path: Other
+preview:
+  filename: bridge
+  original: bridge.jpg
+  sizes:
+  - bridge.jpg
+  thumbnail: bridge.jpg
+  title: test
+  caption: test
+
+pictures:
+
+- filename: img_5001jpg_36331925920_o
+  original: img_5001jpg_36331925920_o.jpg
+  sizes:
+  - img_5001jpg_36331925920_o.jpg
+  thumbnail: img_5001jpg_36331925920_o.jpg
+
+- filename: IMG_4519
+  original: IMG_4519.jpg
+  sizes:
+  - IMG_4519.jpg
+  thumbnail: IMG_4519.jpg
+
+- filename: IMG_5659
+  original: IMG_5659.jpg
+  sizes:
+  - IMG_5659.jpg
+  thumbnail: IMG_5659.jpg
+
+- filename: IMG_3067
+  original: IMG_3067.jpg
+  sizes:
+  - IMG_3067.jpg
+  thumbnail: IMG_3067.jpg
+  caption: Nick doesn't know i took this
+
+- filename: IMG_4355-2
+  original: IMG_4355-2.jpg
+  sizes:
+  - IMG_4355-2.jpg
+  thumbnail: IMG_4355-2.jpg
+
+- filename: 34105758213_3d2b978f6e_o
+  original: 34105758213_3d2b978f6e_o.jpg
+  sizes:
+  - 34105758213_3d2b978f6e_o.jpg
+  thumbnail: 34105758213_3d2b978f6e_o.jpg
+
+- filename: 35729416185_2f0353b27e_o
+  original: 35729416185_2f0353b27e_o.jpg
+  sizes:
+  - 35729416185_2f0353b27e_o.jpg
+  thumbnail: 35729416185_2f0353b27e_o.jpg
+
+- filename: IMG_5595
+  original: IMG_5595.jpg
+  sizes:
+  - IMG_5595.jpg
+  thumbnail: IMG_5595.jpg

@@ -1,4 +1,4 @@
-picture_path: wallpapers
+picture_path: Nature
 preview:
   filename: bridge
   original: bridge.jpg
@@ -7,75 +7,50 @@ preview:
   thumbnail: bridge.jpg
   title: test
   caption: test
+
 pictures:
-- filename: williamsburg
-  original: williamsburg.jpg
-  sizes:
-  - williamsburg.jpg
-  thumbnail: williamsburg.jpg
-  title: second test
-  caption: testing
 
-- filename: williamsburg
-  original: 35127331102_b91cfd9030_o.jpg
+- filename: 5Y5A4583
+  original: 5Y5A4583.jpg
   sizes:
-  - 35127331102_b91cfd9030_o.jpg
-  thumbnail: 35127331102_b91cfd9030_o.jpg
-  title: second test
-  caption: testing
+  - 5Y5A4583.jpg
+  thumbnail: 5Y5A4583.jpg
 
-- filename: williamsburg
-  original: IMG_4355.jpg
+- filename: 5Y5A4585
+  original: 5Y5A4585.jpg
   sizes:
-  - IMG_4355.jpg
-  thumbnail: IMG_4355.jpg
-  title: second test
-  caption: testing
+  - 5Y5A4585.jpg
+  thumbnail: 5Y5A4585.jpg
+  caption: This looked like straight out those horror movies, esp at sundown
 
-- filename: williamsburg
-  original: boat.jpg
+- filename: IMG_3294
+  original: IMG_3294.jpg
   sizes:
-  - boat.jpg
-  thumbnail: boat.jpg
-  title: second test
-  caption: testing
+  - IMG_3294.jpg
+  thumbnail: IMG_3294.jpg
+  title: Cherry Blossoms
+  caption: Cherry Blossom Festival at the Brooklyn Botanical Garden
 
-- filename: williamsburg
-  original: buffalo bunny.jpg
+- filename: 34123383863_daf6644724_o
+  original: 34123383863_daf6644724_o.jpg
   sizes:
-  - buffalo bunny.jpg
-  thumbnail: buffalo bunny.jpg
-  title: second test
-  caption: testing
+  - 34123383863_daf6644724_o.jpg
+  thumbnail: 34123383863_daf6644724_o.jpg
 
-- filename: williamsburg
-  original: 33979682750_4067616e3e_o.jpg
+- filename: IMG_3635
+  original: IMG_3635.jpg
   sizes:
-  - 33979682750_4067616e3e_o.jpg
-  thumbnail: 33979682750_4067616e3e_o.jpg
-  title: second test
-  caption: testing
+  - IMG_3635.jpg
+  thumbnail: IMG_3635.jpg
 
-- filename: williamsburg
-  original: 34167111226_7f1dd187e0_o.jpg
+- filename: IMG_3635
+  original: IMG_3635.jpg
   sizes:
-  - 34167111226_7f1dd187e0_o.jpg
-  thumbnail: 34167111226_7f1dd187e0_o.jpg
-  title: second test
-  caption: testing
+  - IMG_3635.jpg
+  thumbnail: IMG_3635.jpg
 
-- filename: williamsburg
-  original: 34207762675_230d9be9ca_o.jpg
+- filename: 5Y5A4648
+  original: 5Y5A4648.jpg
   sizes:
-  - 34207762675_230d9be9ca_o.jpg
-  thumbnail: 34207762675_230d9be9ca_o.jpg
-  title: second test
-  caption: testing
-
-- filename: williamsburg
-  original: 35127331102_b91cfd9030_o.jpg
-  sizes:
-  - 35127331102_b91cfd9030_o.jpg
-  thumbnail: 35127331102_b91cfd9030_o.jpg
-  title: second test
-  caption: testing
+  - 5Y5A4648.jpg
+  thumbnail: 5Y5A4648.jpg
