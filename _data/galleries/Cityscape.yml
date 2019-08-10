@@ -1,4 +1,4 @@
-picture_path: wallpapers
+picture_path: Cityscape
 preview:
   filename: skyline
   original: 34505748251_4620666c19_o.jpg
@@ -6,13 +6,33 @@ preview:
   - 34505748251_4620666c19_o.jpg
   thumbnail: 34505748251_4620666c19_o.jpg
 pictures:
-- filename: IMG_3457
-  original: IMG_3457.jpg
+
+- filename: IMG_2662
+  original: IMG_2662.jpg
   sizes:
-  - IMG_3457.jpg
-  thumbnail: IMG_3457.jpg
+  - IMG_2662.jpg
+  thumbnail: IMG_2662.jpg
+
 - filename: IMG_2993
   original: IMG_2993.jpg
   sizes:
   - IMG_2993.jpg
   thumbnail: IMG_2993.jpg
+
+- filename: IMG_3457
+  original: IMG_3457.jpg
+  sizes:
+  - IMG_3457.jpg
+  thumbnail: IMG_3457.jpg
+
+- filename: IMG_2708
+  original: IMG_2708.jpg
+  sizes:
+  - IMG_2708.jpg
+  thumbnail: IMG_2708.jpg
+
+- filename: IMG_5652
+  original: IMG_5652.jpg
+  sizes:
+  - IMG_5652.jpg
+  thumbnail: IMG_5652.jpg
