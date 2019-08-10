@@ -2,7 +2,7 @@
 
  title: Nature
  directory: Nature
- picture_path: photography/wallpapers
+ picture_path: Nature
  preview:
   filename: IMG_3294
   original: IMG_3294.jpg
@@ -13,7 +13,7 @@
 -
  title: Cityscape
  directory: Cityscape
- picture_path: photography/wallpapers
+ picture_path: Cityscape
  preview:
   filename: IMG_2708
   original: IMG_2708.jpg
@@ -24,7 +24,7 @@
 -
   title: Astro
   directory: Astro
-  picture_path: photography/wallpapers
+  picture_path: Astro
   preview:
    filename: 32962985092_9b4c49fca1_o
    original: 32962985092_9b4c49fca1_o.jpg
@@ -35,7 +35,7 @@
 -
   title: Other
   directory: Other
-  picture_path: photography/wallpapers
+  picture_path: Other
   preview:
     filename: 5Y5A4583
     original: 5Y5A4583.jpg
