@@ -8,4 +8,4 @@ categories: misc
 
 The forbidden places i went to
 
-{% include gallery-layout.html gallery=site.data.galleries.Forbidden %}
+{% include gallery-layout.html gallery=site.data.galleries.Hilton %}
