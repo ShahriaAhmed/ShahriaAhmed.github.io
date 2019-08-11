@@ -6,11 +6,7 @@ categories: misc
 
 ---
 
+do gifs work on this
+?
 
-
-hellooooooo
-eff
-f
-f
-ff
-f
+![alt text](https://media.giphy.com/media/C9AuY1VOvurxm/giphy.gif)
