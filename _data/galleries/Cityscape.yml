@@ -31,6 +31,12 @@ pictures:
   - IMG_5652.jpg
   thumbnail: IMG_5652.jpg
 
+- filename: IMG_3005
+  original: IMG_3005.jpg
+  sizes:
+  - IMG_3005.jpg
+  thumbnail: IMG_3005.jpg
+
 - filename: IMG_2708
   original: IMG_2708.jpg
   sizes:

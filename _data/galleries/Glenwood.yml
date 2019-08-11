@@ -1,0 +1,24 @@
+picture_path: wallpapers
+pictures:
+
+- filename: img_4134jpg_35127331102_o
+  original: img_4134jpg_35127331102_o.jpg
+  sizes:
+  - img_4134jpg_35127331102_o.jpg
+  thumbnail: img_4134jpg_35127331102_o.jpg
+- filename: IMG_4164
+  original: IMG_4164.jpg
+  sizes:
+  - IMG_4164.jpg
+  thumbnail: IMG_4164.jpg
+- filename: IMG_2841
+  original: IMG_2841.jpg
+  sizes:
+  - IMG_2841.jpg
+  thumbnail: IMG_2841.jpg
+- filename: IMG_2874
+  original: IMG_2874.jpg
+  sizes:
+  - IMG_2874.jpg
+  thumbnail: IMG_2874.jpg
+-
