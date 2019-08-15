@@ -3,42 +3,29 @@ pictures:
 
 - filename: hilton
   original: hilton.jpg
-  sizes:
-  - hilton.jpg
+  sizes: []
   thumbnail: hilton.jpg
-
 - filename: 35692708751_97852ab0c3_o
   original: 35692708751_97852ab0c3_o.jpg
-  sizes:
-  - 35692708751_97852ab0c3_o.jpg
+  sizes: []
   thumbnail: 35692708751_97852ab0c3_o.jpg
-
 - filename: IMG_3457
   original: IMG_3457.jpg
-  sizes:
-  - IMG_3457.jpg
+  sizes: []
   thumbnail: IMG_3457.jpg
-
 - filename: 34984824034_3832d9ffc8_o
   original: 34984824034_3832d9ffc8_o.jpg
-  sizes:
-  - 34984824034_3832d9ffc8_o.jpg
+  sizes: []
   thumbnail: 34984824034_3832d9ffc8_o.jpg
-
 - filename: img_3511jpg_33935282664_o
   original: img_3511jpg_33935282664_o.jpg
-  sizes:
-  - img_3511jpg_33935282664_o.jpg
+  sizes: []
   thumbnail: img_3511jpg_33935282664_o.jpg
-
 - filename: IMG_3437
   original: IMG_3437.jpg
-  sizes:
-  - IMG_3437.jpg
+  sizes: []
   thumbnail: IMG_3437.jpg
-
 - filename: IMG_3432
   original: IMG_3432.jpg
-  sizes:
-  - IMG_3432.jpg
+  sizes: []
   thumbnail: IMG_3432.jpg
