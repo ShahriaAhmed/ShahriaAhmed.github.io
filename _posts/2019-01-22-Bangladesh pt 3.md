@@ -8,6 +8,6 @@ categories: misc
 
 i basically go every year now
 
-&nbsp;
-&nbsp;
+<br />
+<br />
 {% include gallery-layout.html gallery=site.data.galleries.Bangladesh3 %}
