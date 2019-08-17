@@ -8,4 +8,6 @@ categories: misc
 
 i basically go every year now
 
-gallery coming soon
+&nbsp;
+&nbsp;
+{% include gallery-layout.html gallery=site.data.galleries.Bangladesh3 %}

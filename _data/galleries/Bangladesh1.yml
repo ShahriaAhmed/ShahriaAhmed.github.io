@@ -1,0 +1,81 @@
+picture_path: wallpapers
+pictures:
+
+- filename: 34325123594_31971a2bb7_o
+  original: 34325123594_31971a2bb7_o.jpg
+  sizes:
+  - 34325123594_31971a2bb7_o.jpg
+  thumbnail: 34325123594_31971a2bb7_o.jpg
+
+- filename: 35039333401_25b1467aac_o
+  original: 35039333401_25b1467aac_o.jpg
+  sizes:
+  - 35039333401_25b1467aac_o.jpg
+  thumbnail: 35039333401_25b1467aac_o.jpg
+  caption: Another border point to India
+
+- filename: bengali village
+  original: bengali village.jpg
+  sizes:
+  - bengali village.jpg
+  thumbnail: bengali village.jpg
+
+- filename: IMG_1880
+  original: IMG_1880.jpg
+  sizes:
+  - IMG_1880.jpg
+  thumbnail: IMG_1880.jpg
+
+- filename: boat
+  original: boat.jpg
+  sizes:
+  - boat.jpg
+  thumbnail: boat.jpg
+
+- filename: IMG_1646
+  original: IMG_1646.jpg
+  sizes:
+  - IMG_1646.jpg
+  thumbnail: IMG_1646.jpg
+
+- filename: IMG_1556
+  original: IMG_1556.jpg
+  sizes:
+  - IMG_1556.jpg
+  thumbnail: IMG_1556.jpg
+
+- filename: IMG_1581
+  original: IMG_1581.jpg
+  sizes:
+  - IMG_1581.jpg
+  thumbnail: IMG_1581.jpg
+
+- filename: IMG_1584
+  original: IMG_1584.jpg
+  sizes:
+  - IMG_1584.jpg
+  thumbnail: IMG_1584.jpg
+
+- filename: img_8984jpg_34783555640_o
+  original: img_8984jpg_34783555640_o.jpg
+  sizes:
+  - img_8984jpg_34783555640_o.jpg
+  thumbnail: img_8984jpg_34783555640_o.jpg
+
+- filename: IMG_1546
+  original: IMG_1546.jpg
+  sizes:
+  - IMG_1546.jpg
+  thumbnail: IMG_1546.jpg
+
+- filename: IMG_2046
+  original: IMG_2046.jpg
+  sizes:
+  - IMG_2046.jpg
+  thumbnail: IMG_2046.jpg
+
+- filename: IMG_2129
+  original: IMG_2129.jpg
+  sizes:
+  - IMG_2129.jpg
+  thumbnail: IMG_2129.jpg

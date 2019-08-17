@@ -1,0 +1,18 @@
+picture_path: wallpapers
+pictures:
+
+- filename: IMG_7935
+  original: IMG_7935.jpg
+  sizes:
+  - IMG_7935.jpg
+  thumbnail: IMG_7935.jpg
+- filename: IMG_7472
+  original: IMG_7472.jpg
+  sizes:
+  - IMG_7472.jpg
+  thumbnail: IMG_7472.jpg
+- filename: IMG_7534
+  original: IMG_7534.jpg
+  sizes:
+  - IMG_7534.jpg
+  thumbnail: IMG_7534.jpg

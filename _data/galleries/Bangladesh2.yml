@@ -1,0 +1,8 @@
+picture_path: wallpapers
+pictures:
+
+- filename: IMG_6503
+  original: IMG_6503.jpg
+  sizes:
+  - IMG_6503.jpg
+  thumbnail: IMG_6503.jpg
