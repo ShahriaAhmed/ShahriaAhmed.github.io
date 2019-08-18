@@ -1,0 +1,27 @@
+picture_path: wallpapers
+
+- filename: 33747812682_22bb09ab56_o
+  original: 33747812682_22bb09ab56_o.jpg
+  sizes:
+  - 33747812682_22bb09ab56_o.jpg
+  thumbnail: 33747812682_22bb09ab56_o.jpg
+- filename: 33171053273_68caf05934_o
+  original: 33171053273_68caf05934_o.jpg
+  sizes:
+  - 33171053273_68caf05934_o.jpg
+  thumbnail: 33747812682_22bb09ab56_o.jpg
+- filename: 33941507516_7a259b7793_o
+  original: 33941507516_7a259b7793_o.jpg
+  sizes:
+  - 33941507516_7a259b7793_o.jpg
+  thumbnail: 33941507516_7a259b7793_o.jpg
+- filename: IMG_2735
+  original: IMG_2735.jpg
+  sizes:
+  - IMG_2735.jpg
+  thumbnail: IMG_2735.jpg
+- filename: IMG_2730
+  original: IMG_2730.jpg
+  sizes:
+  - IMG_2730.jpg
+  thumbnail: IMG_2730.jpg
