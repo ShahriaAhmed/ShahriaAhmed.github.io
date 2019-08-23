@@ -10,7 +10,7 @@ categories: jekyll update
 My second time back home. This was the most hectic and traumatizing one. I went through the same process, 13 hour flight to Dubai.
 <br />
 <br />
-The layover was >*14 hours*, followed by another 6 hour flight.
+The layover was *14 hours*, followed by another 6 hour flight.
 <br />
 <br />
 There was a tornado at the airport where we were supposed to land. So we rerouted to another airport in Chitagong to refuel, which was another 2 hours.
