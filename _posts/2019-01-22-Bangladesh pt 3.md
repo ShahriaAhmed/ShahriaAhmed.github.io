@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: gallery
 title:  "Bangladesh pt 3"
 date:   2019-01-22 08:51:07 +0100
-categories: misc
+support: [jquery, gallery]
+categories: jekyll update
 
 ---
 
-I basically go every year now. This was 
+I basically go every year now. This was
 
 <br />
 <br />

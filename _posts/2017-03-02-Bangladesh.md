@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: gallery
 title:  "Bangladesh"
 date:   2017-03-02 08:51:07 +0100
-categories: misc
+support: [jquery, gallery]
+categories: jekyll update
 
 ---
 
