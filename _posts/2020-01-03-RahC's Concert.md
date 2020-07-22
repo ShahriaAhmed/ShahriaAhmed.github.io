@@ -8,7 +8,7 @@ categories: jekyll update
 ---
 
 
-Me and my guy Ander went to support our other guy Rah C. It was my first time shooting a concert with the new Sony camera and lens. The pictures came out decent, but could have been better.  ///
+Me and my guy Ander went to support our other guy Rah C. It was my first time shooting a concert with the new Sony camera and lens. The pictures came out decent, but could have been better.  
 
 
 &nbsp;
