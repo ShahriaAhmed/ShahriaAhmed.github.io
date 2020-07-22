@@ -16,10 +16,10 @@ The layover was *14 hours*, followed by another 6 hour flight.
 There was a tornado at the airport where we were supposed to land. So we rerouted to another airport in Chitagong to refuel, which was another 2 hours.
 <br />
 <br />
-Then this passenger had a mental breakdown and started punching the plane window trying to break out. That guy got sedated and taken away. After another hour of waiting, we were ready to go.
+Following that, this passenger had a mental breakdown and started punching the plane window trying to break out. Shortly after, he got sedated and taken away. After another hour of waiting, we were ready to go.
 <br />
 <br />
-Then there was a thunderstorm. The takeoff was a combination of lightning strikes, lots of shaking and grown men crying and praying for a safe flight. Shit at this point, if we die, we die.
+But then there was a thunderstorm. The takeoff was a combination of lightning strikes, lots of shaking and grown men crying and praying for a safe flight. Shit at this point, if we die, we die. I already made my peace.
 <br />
 <br />
 But we managed to land and finally got through the security and hassle of finding our luggage. The ride back home was another 6 hours at night and I started hallucinating cuz of the lack of sleep.

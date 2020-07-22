@@ -7,7 +7,7 @@ categories: jekyll update
 
 ---
 
-I basically go every year now. This was
+I basically go every year now. This was my last trip and the most brief one.
 
 <br />
 <br />
